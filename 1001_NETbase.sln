@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_交换变量", "001_交换变量\001_交换变量.csproj", "{2DD5BD71-5EC6-43FD-B0B6-125FD26291EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_获取字符串中字符个数", "002_获取字符串中字符个数\002_获取字符串中字符个数.csproj", "{58A41309-14CE-4D14-AEEA-5058D76CB364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_求两个数中的最大值", "003_求两个数中的最大值\003_求两个数中的最大值.csproj", "{1347F7FA-6EFC-4017-97BD-78ABCF1C72B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_求多个数中最大值", "004_求多个数中最大值\004_求多个数中最大值.csproj", "{7A2E1900-2762-4C53-A176-9957497FA031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD5BD71-5EC6-43FD-B0B6-125FD26291EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD5BD71-5EC6-43FD-B0B6-125FD26291EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD5BD71-5EC6-43FD-B0B6-125FD26291EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD5BD71-5EC6-43FD-B0B6-125FD26291EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A41309-14CE-4D14-AEEA-5058D76CB364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A41309-14CE-4D14-AEEA-5058D76CB364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A41309-14CE-4D14-AEEA-5058D76CB364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A41309-14CE-4D14-AEEA-5058D76CB364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1347F7FA-6EFC-4017-97BD-78ABCF1C72B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1347F7FA-6EFC-4017-97BD-78ABCF1C72B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1347F7FA-6EFC-4017-97BD-78ABCF1C72B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1347F7FA-6EFC-4017-97BD-78ABCF1C72B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2E1900-2762-4C53-A176-9957497FA031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2E1900-2762-4C53-A176-9957497FA031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2E1900-2762-4C53-A176-9957497FA031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2E1900-2762-4C53-A176-9957497FA031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FB7C2D-5201-4936-9A93-4ACFC6A02C7C}
+	EndGlobalSection
+EndGlobal

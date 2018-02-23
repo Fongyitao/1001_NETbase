@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_求多个数中最大�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_求1-100之间整数和", "005_求1-100之间整数和\005_求1-100之间整数和.csproj", "{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_判断质数", "006_判断质数\006_判断质数.csproj", "{BCDCD343-8BFE-4603-8AEA-29DA4184709C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDCD343-8BFE-4603-8AEA-29DA4184709C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDCD343-8BFE-4603-8AEA-29DA4184709C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDCD343-8BFE-4603-8AEA-29DA4184709C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDCD343-8BFE-4603-8AEA-29DA4184709C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

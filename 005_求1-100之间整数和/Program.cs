@@ -10,6 +10,13 @@ namespace _005_求1_100之间整数和
     {
         static void Main(string[] args)
         {
+            int sum = 0;
+            for (int i = 0; i <= 100 ; i++)
+            {
+                sum += i;
+            }
+            Console.WriteLine("和是：{0}", sum);
+            Console.ReadKey();
         }
     }
 }

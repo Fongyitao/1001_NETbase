@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_求两个数中的最�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_求多个数中最大值", "004_求多个数中最大值\004_求多个数中最大值.csproj", "{7A2E1900-2762-4C53-A176-9957497FA031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_求1-100之间整数和", "005_求1-100之间整数和\005_求1-100之间整数和.csproj", "{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7A2E1900-2762-4C53-A176-9957497FA031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A2E1900-2762-4C53-A176-9957497FA031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A2E1900-2762-4C53-A176-9957497FA031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACB8AD5-4541-42B6-92E1-3B902CD1C09D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

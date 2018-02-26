@@ -14,16 +14,12 @@ namespace _009_字符串中某个字符串出现次数
             string str = "患者: “大夫,我咳嗽得很重。” 大夫: “你多大年纪?”  患者: “七十五岁。” 大夫: “二十岁咳嗽吗?”  患者: “不咳嗽。”  大夫: “四十岁咳嗽吗?”  患者: “也不咳嗽。”大夫:“那现在不咳嗽,还要等到什么时候咳嗽?”";
             string target = "咳嗽";
             int count = 0;//计数器
-                          /*
-                                      for (int index = 0; (index = str.IndexOf(target, index)) != -1; index += target.Length)
-                                      {
-                                          count++;
-                                          Console.WriteLine("{0}第{1}次出现的位置是{2}", target, count, index);
-                                      }
-                                      Console.WriteLine("{0}总共出现了{1}次",target,count);
-                          */
-
-            Dictionary<string, int> dic = new Dictionary<string, int>();
+            for (int index = 0; (index = str.IndexOf(target, index)) != -1; index += target.Length)
+            {
+                count++;
+                Console.WriteLine("{0}第{1}次出现的位置是{2}", target, count, index);
+            }
+            Console.WriteLine("{0}总共出现了{1}次", target, count);
 
             Console.ReadKey();
         }

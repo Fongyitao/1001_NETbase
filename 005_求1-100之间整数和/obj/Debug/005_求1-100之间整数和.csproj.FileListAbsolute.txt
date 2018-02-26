@@ -1,0 +1,7 @@
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\bin\Debug\005_求1-100之间整数和.exe.config
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\bin\Debug\005_求1-100之间整数和.exe
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\bin\Debug\005_求1-100之间整数和.pdb
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\obj\Debug\005_求1-100之间整数和.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\obj\Debug\005_求1-100之间整数和.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\obj\Debug\005_求1-100之间整数和.exe
+E:\GitHub\VS\1001_NETbase\005_求1-100之间整数和\obj\Debug\005_求1-100之间整数和.pdb

@@ -1,0 +1,6 @@
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\bin\Debug\008_冒泡排序.exe.config
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\bin\Debug\008_冒泡排序.exe
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\bin\Debug\008_冒泡排序.pdb
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\obj\Debug\008_冒泡排序.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\obj\Debug\008_冒泡排序.exe
+E:\GitHub\VS\1001_NETbase\008_冒泡排序\obj\Debug\008_冒泡排序.pdb

@@ -1,0 +1,7 @@
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\obj\Debug\002_获取字符串中字符个数.csprojResolveAssemblyReference.cache
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\obj\Debug\002_获取字符串中字符个数.csproj.CoreCompileInputs.cache
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\bin\Debug\002_获取字符串中字符个数.exe.config
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\bin\Debug\002_获取字符串中字符个数.exe
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\bin\Debug\002_获取字符串中字符个数.pdb
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\obj\Debug\002_获取字符串中字符个数.exe
+D:\vsProjects\source\repos\1001_NETbase\002_获取字符串中字符个数\obj\Debug\002_获取字符串中字符个数.pdb

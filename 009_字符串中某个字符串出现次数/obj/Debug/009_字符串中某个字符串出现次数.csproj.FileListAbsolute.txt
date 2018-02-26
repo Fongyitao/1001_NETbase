@@ -1,0 +1,7 @@
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\bin\Debug\009_字符串中某个字符串出现次数.exe.config
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\bin\Debug\009_字符串中某个字符串出现次数.exe
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\bin\Debug\009_字符串中某个字符串出现次数.pdb
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\obj\Debug\009_字符串中某个字符串出现次数.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\obj\Debug\009_字符串中某个字符串出现次数.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\obj\Debug\009_字符串中某个字符串出现次数.exe
+E:\GitHub\VS\1001_NETbase\009_字符串中某个字符串出现次数\obj\Debug\009_字符串中某个字符串出现次数.pdb

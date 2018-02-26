@@ -1,0 +1,7 @@
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\bin\Debug\004_求多个数中最大值.exe.config
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\bin\Debug\004_求多个数中最大值.exe
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\bin\Debug\004_求多个数中最大值.pdb
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\obj\Debug\004_求多个数中最大值.csprojResolveAssemblyReference.cache
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\obj\Debug\004_求多个数中最大值.csproj.CoreCompileInputs.cache
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\obj\Debug\004_求多个数中最大值.exe
+D:\vsProjects\source\repos\1001_NETbase\004_求多个数中最大值\obj\Debug\004_求多个数中最大值.pdb

@@ -1,0 +1,7 @@
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\bin\Debug\001_交换变量.exe.config
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\bin\Debug\001_交换变量.exe
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\bin\Debug\001_交换变量.pdb
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\obj\Debug\001_交换变量.csprojResolveAssemblyReference.cache
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\obj\Debug\001_交换变量.csproj.CoreCompileInputs.cache
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\obj\Debug\001_交换变量.exe
+D:\vsProjects\source\repos\1001_NETbase\001_交换变量\obj\Debug\001_交换变量.pdb

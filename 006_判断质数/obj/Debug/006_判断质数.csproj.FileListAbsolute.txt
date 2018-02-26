@@ -1,0 +1,7 @@
+E:\GitHub\VS\1001_NETbase\006_判断质数\bin\Debug\006_判断质数.exe.config
+E:\GitHub\VS\1001_NETbase\006_判断质数\bin\Debug\006_判断质数.exe
+E:\GitHub\VS\1001_NETbase\006_判断质数\bin\Debug\006_判断质数.pdb
+E:\GitHub\VS\1001_NETbase\006_判断质数\obj\Debug\006_判断质数.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\006_判断质数\obj\Debug\006_判断质数.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\006_判断质数\obj\Debug\006_判断质数.exe
+E:\GitHub\VS\1001_NETbase\006_判断质数\obj\Debug\006_判断质数.pdb

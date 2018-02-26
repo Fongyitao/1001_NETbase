@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace _016_猜拳游戏
 {
+
     static class Program
     {
         /// <summary>

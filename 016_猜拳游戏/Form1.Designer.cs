@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.btnStone = new System.Windows.Forms.Button();
-            this.btnRock = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnScissors = new System.Windows.Forms.Button();
+            this.btnPaper = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblPlayer = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
+            this.lblCpu = new System.Windows.Forms.Label();
+            this.lblResult = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnStone
@@ -47,81 +47,81 @@
             this.btnStone.Text = "石头";
             this.btnStone.UseVisualStyleBackColor = true;
             // 
-            // btnRock
+            // btnScissors
             // 
-            this.btnRock.Location = new System.Drawing.Point(214, 258);
-            this.btnRock.Name = "btnRock";
-            this.btnRock.Size = new System.Drawing.Size(75, 23);
-            this.btnRock.TabIndex = 0;
-            this.btnRock.Text = "剪刀";
-            this.btnRock.UseVisualStyleBackColor = true;
+            this.btnScissors.Location = new System.Drawing.Point(224, 258);
+            this.btnScissors.Name = "btnScissors";
+            this.btnScissors.Size = new System.Drawing.Size(75, 23);
+            this.btnScissors.TabIndex = 0;
+            this.btnScissors.Text = "剪刀";
+            this.btnScissors.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnPaper
             // 
-            this.button3.Location = new System.Drawing.Point(382, 258);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 0;
-            this.button3.Text = "button1";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnPaper.Location = new System.Drawing.Point(382, 258);
+            this.btnPaper.Name = "btnPaper";
+            this.btnPaper.Size = new System.Drawing.Size(75, 23);
+            this.btnPaper.TabIndex = 0;
+            this.btnPaper.Text = "布";
+            this.btnPaper.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(67, 47);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 15);
+            this.label1.Size = new System.Drawing.Size(37, 15);
             this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.label1.Text = "玩家";
             // 
-            // label2
+            // lblPlayer
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(151, 47);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 15);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "label1";
+            this.lblPlayer.AutoSize = true;
+            this.lblPlayer.Location = new System.Drawing.Point(151, 47);
+            this.lblPlayer.Name = "lblPlayer";
+            this.lblPlayer.Size = new System.Drawing.Size(55, 15);
+            this.lblPlayer.TabIndex = 1;
+            this.lblPlayer.Text = "label1";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(329, 47);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(55, 15);
+            this.label3.Size = new System.Drawing.Size(37, 15);
             this.label3.TabIndex = 1;
-            this.label3.Text = "label1";
+            this.label3.Text = "电脑";
             // 
-            // label4
+            // lblCpu
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(413, 47);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 15);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "label1";
+            this.lblCpu.AutoSize = true;
+            this.lblCpu.Location = new System.Drawing.Point(413, 47);
+            this.lblCpu.Name = "lblCpu";
+            this.lblCpu.Size = new System.Drawing.Size(55, 15);
+            this.lblCpu.TabIndex = 1;
+            this.lblCpu.Text = "label1";
             // 
-            // label5
+            // lblResult
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(234, 137);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(55, 15);
-            this.label5.TabIndex = 1;
-            this.label5.Text = "label1";
+            this.lblResult.AutoSize = true;
+            this.lblResult.Location = new System.Drawing.Point(234, 137);
+            this.lblResult.Name = "lblResult";
+            this.lblResult.Size = new System.Drawing.Size(55, 15);
+            this.lblResult.TabIndex = 1;
+            this.lblResult.Text = "label1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(569, 366);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.lblResult);
+            this.Controls.Add(this.lblCpu);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblPlayer);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.btnRock);
+            this.Controls.Add(this.btnPaper);
+            this.Controls.Add(this.btnScissors);
             this.Controls.Add(this.btnStone);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -133,13 +133,13 @@
         #endregion
 
         private System.Windows.Forms.Button btnStone;
-        private System.Windows.Forms.Button btnRock;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnScissors;
+        private System.Windows.Forms.Button btnPaper;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblPlayer;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label lblCpu;
+        private System.Windows.Forms.Label lblResult;
     }
 }
 

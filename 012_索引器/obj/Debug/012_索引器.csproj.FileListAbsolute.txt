@@ -1,0 +1,7 @@
+E:\GitHub\VS\1001_NETbase\012_索引器\bin\Debug\012_索引器.exe.config
+E:\GitHub\VS\1001_NETbase\012_索引器\bin\Debug\012_索引器.exe
+E:\GitHub\VS\1001_NETbase\012_索引器\bin\Debug\012_索引器.pdb
+E:\GitHub\VS\1001_NETbase\012_索引器\obj\Debug\012_索引器.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\012_索引器\obj\Debug\012_索引器.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\012_索引器\obj\Debug\012_索引器.exe
+E:\GitHub\VS\1001_NETbase\012_索引器\obj\Debug\012_索引器.pdb

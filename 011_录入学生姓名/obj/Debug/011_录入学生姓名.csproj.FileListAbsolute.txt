@@ -1,0 +1,6 @@
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\bin\Debug\011_录入学生姓名.exe.config
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\bin\Debug\011_录入学生姓名.exe
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\bin\Debug\011_录入学生姓名.pdb
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\obj\Debug\011_录入学生姓名.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\obj\Debug\011_录入学生姓名.exe
+E:\GitHub\VS\1001_NETbase\011_录入学生姓名\obj\Debug\011_录入学生姓名.pdb

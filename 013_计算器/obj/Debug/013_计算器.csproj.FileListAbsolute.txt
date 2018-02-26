@@ -1,0 +1,10 @@
+E:\GitHub\VS\1001_NETbase\013_计算器\bin\Debug\013_计算器.exe.config
+E:\GitHub\VS\1001_NETbase\013_计算器\bin\Debug\013_计算器.exe
+E:\GitHub\VS\1001_NETbase\013_计算器\bin\Debug\013_计算器.pdb
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\013_计算器.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\_013_计算器.Form1.resources
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\_013_计算器.Properties.Resources.resources
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\013_计算器.csproj.GenerateResource.Cache
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\013_计算器.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\013_计算器.exe
+E:\GitHub\VS\1001_NETbase\013_计算器\obj\Debug\013_计算器.pdb

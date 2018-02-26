@@ -1,0 +1,7 @@
+E:\GitHub\VS\1001_NETbase\014_反转字符串\bin\Debug\014_反转字符串.exe.config
+E:\GitHub\VS\1001_NETbase\014_反转字符串\bin\Debug\014_反转字符串.exe
+E:\GitHub\VS\1001_NETbase\014_反转字符串\bin\Debug\014_反转字符串.pdb
+E:\GitHub\VS\1001_NETbase\014_反转字符串\obj\Debug\014_反转字符串.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\014_反转字符串\obj\Debug\014_反转字符串.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\014_反转字符串\obj\Debug\014_反转字符串.exe
+E:\GitHub\VS\1001_NETbase\014_反转字符串\obj\Debug\014_反转字符串.pdb

@@ -1,0 +1,10 @@
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\bin\Debug\016_猜拳游戏.exe.config
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\bin\Debug\016_猜拳游戏.exe
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\bin\Debug\016_猜拳游戏.pdb
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\016_猜拳游戏.csprojResolveAssemblyReference.cache
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\_016_猜拳游戏.Form1.resources
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\_016_猜拳游戏.Properties.Resources.resources
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\016_猜拳游戏.csproj.GenerateResource.Cache
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\016_猜拳游戏.csproj.CoreCompileInputs.cache
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\016_猜拳游戏.exe
+E:\GitHub\VS\1001_NETbase\016_猜拳游戏\obj\Debug\016_猜拳游戏.pdb

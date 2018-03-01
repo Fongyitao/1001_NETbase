@@ -23,13 +23,14 @@ namespace _016_猜拳游戏
             {
                 case -1:
                 case 2:
-                    Str = "You Win!";
+                    Str = "Win!";
                     break;
                 case 1:
                 case -2:
-                    Str = "You Loser!";
+                    Str = "Loser!";
                     break;
                 default:
+                    Str="平手";
                     break;
             }
             return Str;

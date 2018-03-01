@@ -42,28 +42,31 @@
             // 
             this.btnStone.Location = new System.Drawing.Point(70, 258);
             this.btnStone.Name = "btnStone";
-            this.btnStone.Size = new System.Drawing.Size(75, 23);
+            this.btnStone.Size = new System.Drawing.Size(93, 39);
             this.btnStone.TabIndex = 0;
             this.btnStone.Text = "石头";
             this.btnStone.UseVisualStyleBackColor = true;
+            this.btnStone.Click += new System.EventHandler(this.btnStone_Click);
             // 
             // btnScissors
             // 
             this.btnScissors.Location = new System.Drawing.Point(224, 258);
             this.btnScissors.Name = "btnScissors";
-            this.btnScissors.Size = new System.Drawing.Size(75, 23);
+            this.btnScissors.Size = new System.Drawing.Size(82, 39);
             this.btnScissors.TabIndex = 0;
             this.btnScissors.Text = "剪刀";
             this.btnScissors.UseVisualStyleBackColor = true;
+            this.btnScissors.Click += new System.EventHandler(this.btnStone_Click);
             // 
             // btnPaper
             // 
             this.btnPaper.Location = new System.Drawing.Point(382, 258);
             this.btnPaper.Name = "btnPaper";
-            this.btnPaper.Size = new System.Drawing.Size(75, 23);
+            this.btnPaper.Size = new System.Drawing.Size(86, 39);
             this.btnPaper.TabIndex = 0;
             this.btnPaper.Text = "布";
             this.btnPaper.UseVisualStyleBackColor = true;
+            this.btnPaper.Click += new System.EventHandler(this.btnStone_Click);
             // 
             // label1
             // 
@@ -104,9 +107,11 @@
             // lblResult
             // 
             this.lblResult.AutoSize = true;
-            this.lblResult.Location = new System.Drawing.Point(234, 137);
+            this.lblResult.Font = new System.Drawing.Font("楷体", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lblResult.ForeColor = System.Drawing.Color.Crimson;
+            this.lblResult.Location = new System.Drawing.Point(168, 138);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(55, 15);
+            this.lblResult.Size = new System.Drawing.Size(211, 60);
             this.lblResult.TabIndex = 1;
             this.lblResult.Text = "label1";
             // 
